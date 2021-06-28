@@ -1,4 +1,4 @@
-Unity Project that implements OneSignal's setEmail and setExternalUserId methods. This includes the assets folder, which includes the OneSignalControl.cs file. It also has the runnable apk build for android devices.
+Unity Project that implements OneSignal's setEmail and setExternalUserId methods. This includes the assets folder, which includes the OneSignalControl.cs file. It also has the runnable apk build for android devices. Full unity file was too large
 
 I was not able to set the external ID for the email channel in the OneSignal Dashboard.
 
